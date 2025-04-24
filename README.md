@@ -3,4 +3,13 @@ A breakdown of differences in rules in Kaizo IronMON and adjacent formats.
 
 Rule/Topic| Kaizo IronMON | Super Kaizo IronMON | Subpar Kaizo IronMON | Monomon | Murphmon
 |-|-|-|-|-|-|
-| Howdy | Howdy | Howdy | Howdy | Howdy | Howdy | 
+| Choosing Lab Starter | Random | Random | Random | Choose your starter | Choose your starter | 
+| Pivoting Early Game | 1 Catch per route, must commit to new Pokemon once caught | 1 Catch per route, must commit to new Pokemon once caught | 1 Catch per route, must commit to new Pokemon once caught | May catch any 3 Pokemon from designated "early" routes then choose between the 3 catches and lab mon. | May catch any 3 Pokemon from designated "early" routes then choose between the 3 catches and lab mon. | 
+| Choosing Lab Starter | Random | Random | Random | Choose your starter | Choose your starter | 
+| Choosing Lab Starter | Random | Random | Random | Choose your starter | Choose your starter | 
+| Choosing Lab Starter | Random | Random | Random | Choose your starter | Choose your starter | 
+| Choosing Lab Starter | Random | Random | Random | Choose your starter | Choose your starter | 
+| Choosing Lab Starter | Random | Random | Random | Choose your starter | Choose your starter | 
+| Choosing Lab Starter | Random | Random | Random | Choose your starter | Choose your starter | 
+| Choosing Lab Starter | Random | Random | Random | Choose your starter | Choose your starter | 
+| Choosing Lab Starter | Random | Random | Random | Choose your starter | Choose your starter | 
